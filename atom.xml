@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>남진이의 블로그</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nj0034.github.io/"/>
+  <updated>2017-10-08T09:00:26.462Z</updated>
+  <id>http://nj0034.github.io/</id>
+  
+  <author>
+    <name>Namjin Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>네 번째 글</title>
+    <link href="http://nj0034.github.io/2017/10/08/%EB%84%A4-%EB%B2%88%EC%A7%B8-%EA%B8%80/"/>
+    <id>http://nj0034.github.io/2017/10/08/네-번째-글/</id>
+    <published>2017-10-08T08:59:58.000Z</published>
+    <updated>2017-10-08T09:00:26.462Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="왜-글이-안써지지"><a href="#왜-글이-안써지지" class="headerlink" title="왜 글이 안써지지"></a>왜 글이 안써지지</h2><p>왜야</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;왜-글이-안써지지&quot;&gt;&lt;a href=&quot;#왜-글이-안써지지&quot; class=&quot;headerlink&quot; title=&quot;왜 글이 안써지지&quot;&gt;&lt;/a&gt;왜 글이 안써지지&lt;/h2&gt;&lt;p&gt;왜야&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>세번쨰 글</title>
+    <link href="http://nj0034.github.io/2017/10/06/%EC%84%B8%EB%B2%88%EC%A8%B0-%EA%B8%80/"/>
+    <id>http://nj0034.github.io/2017/10/06/세번쨰-글/</id>
+    <published>2017-10-06T14:17:49.000Z</published>
+    <updated>2017-10-08T08:58:46.832Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="세번째-글"><a href="#세번째-글" class="headerlink" title="세번째 글"></a>세번째 글</h2><p>오후~~</p><p>#안녕하세요.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;세번째-글&quot;&gt;&lt;a href=&quot;#세번째-글&quot; class=&quot;headerlink&quot; title=&quot;세번째 글&quot;&gt;&lt;/a&gt;세번째 글&lt;/h2&gt;&lt;p&gt;오후~~&lt;/p&gt;
+&lt;p&gt;#안녕하세요.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>다음 글 테스트?</title>
+    <link href="http://nj0034.github.io/2017/10/06/%EB%8B%A4%EC%9D%8C-%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    <id>http://nj0034.github.io/2017/10/06/다음-글-테스트/</id>
+    <published>2017-10-06T13:59:05.000Z</published>
+    <updated>2017-10-06T14:15:24.599Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="뭐든지-다-된다"><a href="#뭐든지-다-된다" class="headerlink" title="뭐든지 다 된다"></a>뭐든지 다 된다</h2><p>코드는</p><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="meta"># <span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span>&#123;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"안녕하세요. 이남진입니다."</span>);</div><div class="line">    <span class="keyword">return</span> <span class="number">0</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;뭐든지-다-된다&quot;&gt;&lt;a href=&quot;#뭐든지-다-된다&quot; class=&quot;headerlink&quot; title=&quot;뭐든지 다 된다&quot;&gt;&lt;/a&gt;뭐든지 다 된다&lt;/h2&gt;&lt;p&gt;코드는&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>새 글 테스트</title>
+    <link href="http://nj0034.github.io/2017/10/06/%EC%83%88-%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    <id>http://nj0034.github.io/2017/10/06/새-글-테스트/</id>
+    <published>2017-10-06T13:55:23.000Z</published>
+    <updated>2017-10-06T14:15:14.970Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="이렇게-쉽게-글을-쓰자"><a href="#이렇게-쉽게-글을-쓰자" class="headerlink" title="이렇게 쉽게 글을 쓰자"></a>이렇게 쉽게 글을 쓰자</h2><p>너무 쉽다</p><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">0</span>,<span class="number">100</span>):</div><div class="line">    print(i)</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;이렇게-쉽게-글을-쓰자&quot;&gt;&lt;a href=&quot;#이렇게-쉽게-글을-쓰자&quot; class=&quot;headerlink&quot; title=&quot;이렇게 쉽게 글을 쓰자&quot;&gt;&lt;/a&gt;이렇게 쉽게 글을 쓰자&lt;/h2&gt;&lt;p&gt;너무 쉽다&lt;/p&gt;
+&lt;figure class=&quot;highl
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://nj0034.github.io/2017/10/06/hello-world/"/>
+    <id>http://nj0034.github.io/2017/10/06/hello-world/</id>
+    <published>2017-10-06T13:53:06.887Z</published>
+    <updated>2017-10-06T13:53:06.889Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
